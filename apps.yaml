@@ -1,0 +1,7 @@
+zhals:
+  module: zhals
+  class: zhals
+  token: HOMEASSISTANT_LONG_LIVED_ACCESS_TOKEN
+  host: homeassistant.local
+  interval: 10
+  log_level: INFO
